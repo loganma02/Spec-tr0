@@ -1,5 +1,4 @@
 # Spec-tr0 Light Jacket
-### Jacket infused with WLED strip control
 
 ![Person wearing light jacket glowing green while standing in alley](Images/outside.jpg)
 
@@ -8,6 +7,8 @@ In this project I set out to make a jacket for a costume with which I could chan
 
 ## Jacket Construction
 ![Jacket unfurled showing strip and circuit board](Images/open.jpg)
+<img src="Images/open.jpg" width="400" alt="Jacket unfurled showing strip and circuit board">
+
 The strip runs hidden along the inside next to the zipper for an ambient lighting effect, and visible around the collar for the exposed design choice.
 The battery and circuit board tuck into an existing pocket on the inside.
 
